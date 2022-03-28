@@ -1,6 +1,8 @@
 # RssDotnet
 A list of my favorite dotnet rss feeds
 
+[Import Feeds](https://raw.githubusercontent.com/Timmoth/RssDotnet/main/feeds.opml)
+
 [![Chris_Sainty](https://img.shields.io/badge/Chris_Sainty-Chris_Sainty-green)](https://chrissainty.com/)
 
 [![Martin_Fowler](https://img.shields.io/badge/Martin_Fowler-Martin_Fowler-green)](https://martinfowler.com/)
