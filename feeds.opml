@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+      <outline text="Chris Sainty" title="Chris Sainty" type="rss" 
+            xmlUrl="https://chrissainty.com/rss/" htmlUrl="https://chrissainty.com/"/>
+      <outline text="Martin Fowler" title="Martin Fowler" type="rss" 
+            xmlUrl="https://martinfowler.com/feed.atom"/>
+      <outline text="Ed Charbeneau" title="Ed Charbeneau" type="rss" 
+            xmlUrl="https://edcharbeneau.com/feed.xml" htmlUrl="https://edcharbeneau.com/"/>
+      <outline text="Meziantou&#39;s blog" title="Meziantou&#39;s blog" type="rss" 
+            xmlUrl="https://www.meziantou.net/feed.rss" htmlUrl="https://www.meziantou.net/"/>
+      <outline text=".NET Blog » Feed" title=".NET Blog » Feed" type="rss" 
+            xmlUrl="https://devblogs.microsoft.com/dotnet/feed/" htmlUrl="https://devblogs.microsoft.com/dotnet"/>
+      <outline text="Jimmy Bogard" title="Jimmy Bogard" type="rss" 
+            xmlUrl="https://jimmybogard.com/rss/" htmlUrl="https://jimmybogard.com/"/>
+      <outline text="Gary Woodfine » Feed" title="Gary Woodfine » Feed" type="rss" 
+            xmlUrl="https://garywoodfine.com/feed/" htmlUrl="https://garywoodfine.com"/>
+      <outline text="You&#39;ve Been Haacked" title="You&#39;ve Been Haacked" type="rss" 
+            xmlUrl="http://haacked.com/atom.xml" htmlUrl="http://haacked.com/"/>
+      <outline text="Andrew Lock | .NET Escapades" title="Andrew Lock | .NET Escapades" type="rss" 
+            xmlUrl="https://andrewlock.net/rss.xml" htmlUrl="https://andrewlock.net/"/>
+      <outline text="Mike Brind, Web Development and ASP.NET Feed" title="Mike Brind, Web Development and ASP.NET Feed" type="rss" 
+            xmlUrl="https://www.mikesdotnetting.com/feed" htmlUrl="https://www.mikesdotnetting.com/feed"/>
+      <outline text="Dotnet thoughts" title="Dotnet thoughts" type="rss" 
+            xmlUrl="https://feeds.feedburner.com/dotnetthoughts" htmlUrl="https://dotnetthoughts.net/"/>
+      <outline text="Felipe Alberto" title="Felipe Alberto" type="rss" 
+            xmlUrl="https://falberthen.github.io/feed.xml" htmlUrl="https://falberthen.github.io/"/>
+      <outline text="DanylkoWeb" title="DanylkoWeb" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/DanylkoWeb" htmlUrl="https://www.danylkoweb.com/RSS"/>
+      <outline text="Khalid Abuhakmeh" title="Khalid Abuhakmeh" type="rss" 
+            xmlUrl="https://khalidabuhakmeh.com/feed.xml" htmlUrl="https://khalidabuhakmeh.com/"/>
+      <outline text="Dave Brock" title="Dave Brock" type="rss" 
+            xmlUrl="https://www.daveabrock.com/rss/" htmlUrl="https://www.daveabrock.com/"/>
+      <outline text="CSS-Tricks » Archives Comments Feed" title="CSS-Tricks » Archives Comments Feed" type="rss" 
+            xmlUrl="https://css-tricks.com/archives/feed/" htmlUrl="https://css-tricks.com"/>
+      <outline text="Accessible AI - Data Science on Azure for Everyone" title="Accessible AI - Data Science on Azure for Everyone" type="rss" 
+            xmlUrl="https://accessibleai.dev/index.xml" htmlUrl="https://accessibleai.dev/"/>
+      <outline text="RSS feed for ploeh blog" title="RSS feed for ploeh blog" type="rss" 
+            xmlUrl="https://blog.ploeh.dk/rss.xml" htmlUrl="https://blog.ploeh.dk"/>
+      <outline text="Exception Not Found" title="Exception Not Found" type="rss" 
+            xmlUrl="https://exceptionnotfound.net/rss/" htmlUrl="https://exceptionnotfound.net"/>
+      <outline text="Expecting someone geekier" title="Expecting someone geekier" type="rss" 
+            xmlUrl="https://www.jimbobbennett.io/rss/" htmlUrl="https://www.jimbobbennett.io/"/>
+      <outline text="CodeOpinion » Feed" title="CodeOpinion » Feed" type="rss" 
+            xmlUrl="https://codeopinion.com/feed/" htmlUrl="https://codeopinion.com"/>
+      <outline text="RSS Feed for Ardalis" title="RSS Feed for Ardalis" type="rss" 
+            xmlUrl="https://ardalis.com/rss.xml/" htmlUrl="https://ardalis.com"/>
+      <outline text="Tim Heuer" title="Tim Heuer" type="rss" 
+            xmlUrl="https://timheuer.com/feed/rss" htmlUrl="https://timheuer.com/"/>
+      <outline text="Patrik Svensson" title="Patrik Svensson" type="rss" 
+            xmlUrl="https://patriksvensson.se/feed.rss"/>
+      <outline text="Rémi Bourgarel&#39;s Blog" title="Rémi Bourgarel&#39;s Blog" type="rss" 
+            xmlUrl="https://remibou.github.io/feed.xml" htmlUrl="https://remibou.github.io/"/>
+      <outline text="Dan Clarke&#39;s Blog" title="Dan Clarke&#39;s Blog" type="rss" 
+            xmlUrl="https://www.danclarke.com/rss"/>
+      <outline text="Don&#39;t Code Tired" title="Don&#39;t Code Tired" type="rss" 
+            xmlUrl="http://dontcodetired.com/blog/syndication.axd" htmlUrl="http://dontcodetired.com/blog/"/>
+      <outline text="jonhilton.net - Making sense of .NET" title="jonhilton.net - Making sense of .NET" type="rss" 
+            xmlUrl="https://jonhilton.net//feed" htmlUrl="https://jonhilton.net/"/>
+      <outline text="dotnetkicks.com" title="dotnetkicks.com" type="rss" 
+            xmlUrl="https://dotnetkicks.com/feeds/rss" htmlUrl="https://dotnetkicks.com/"/>
+</body>
+</opml>feed
