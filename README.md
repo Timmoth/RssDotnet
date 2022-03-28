@@ -1,5 +1,4 @@
 # RssDotnet
-A list of my favorite dotnet rss feeds
 
 [Import Feeds](https://raw.githubusercontent.com/Timmoth/RssDotnet/main/feeds.opml)
 
