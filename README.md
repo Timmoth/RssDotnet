@@ -2,6 +2,8 @@
 
 [Import Feeds](https://raw.githubusercontent.com/Timmoth/RssDotnet/main/feeds.opml)
 
+[![Tim_Jones](https://img.shields.io/badge/Tim_Jones-Tim_Jones-green)](https://timmoth.com/)
+
 [![Chris_Sainty](https://img.shields.io/badge/Chris_Sainty-Chris_Sainty-green)](https://chrissainty.com/)
 
 [![Martin_Fowler](https://img.shields.io/badge/Martin_Fowler-Martin_Fowler-green)](https://martinfowler.com/)
